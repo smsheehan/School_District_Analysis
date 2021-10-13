@@ -78,10 +78,36 @@ Using bulleted lists and images of DataFrames as support, address the following 
    ** Math and reading scores by grade
   
    ** Scores by school spending
+   original scores by school spending
+   
+   ![image](https://user-images.githubusercontent.com/90977689/137202317-22649a53-1c54-49b8-9ad4-4d9573090184.png)
+   
+updated scores by school spending
+
+![image](https://user-images.githubusercontent.com/90977689/137202457-20410635-a2e0-4296-a2e8-fcf27fdcd47f.png)
+
+
   
    ** Scores by school size
   
+  original scores by school size:
+  
+  ![image](https://user-images.githubusercontent.com/90977689/137201694-d64c7c3a-3a52-4b48-87f6-2379090e1493.png)
+
+updated scores by school size:
+
+![image](https://user-images.githubusercontent.com/90977689/137201785-b0ef534b-0d61-490f-9521-3f5ebc685c74.png)
+
+
+
    ** Scores by school type
+original scores by school type
+
+![image](https://user-images.githubusercontent.com/90977689/137201946-936ea081-23b8-4813-af92-d41a6e4e0129.png)
+
+updated scores by school type:
+![image](https://user-images.githubusercontent.com/90977689/137202040-6d645e60-6d1f-49b5-8540-e3edf4a2c88a.png)
+
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
