@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of the school district analysis: 
-Explain the purpose of this analysis.
+The purpose of this exercise is to address a need to remove from analysis the 9th grade testing data from one of the fifteen schools in the district.  With the 9th grade data removed, we were asked to re-analyze the school district data and help the school board see if the new analysis changes the interpretation from our previous analysis where all grades were included.  From a skills development standpoint, the purpose of this exercise was to introduce the concept of replacing values in a data frame with "NaN" which stands for "Not a Number".  This also required us to dive specifically into the school in question and learn how to use .loc to find and replace values.  Lastly, comparing the new output with the previous output helps us to see the impact of removing a subset of data.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
