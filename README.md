@@ -52,9 +52,11 @@ Using bulleted lists and images of DataFrames as support, address the following 
 - How is the district summary affected?  The district summary is essentially the same between the two analyses.  The average math score has changed by 1 tenth of a percent while the average reading score is identical.  In the final formatted dataframes, the module formats the % passing columns with no decimal places, while in the challenge we formated with one decimal place.  If the challenge was formatted in the same manner as the original analysis, the values would be identical.  Going back in the module code prior to formatting we can see the % passing categories are different by about .1%, which for the purposes of our analysis is essentially the same.  It is important to note that both data frames show the original student count of 39,170 students.  In my opinion, we should have added an additional column for "number of students included in grading analysis".
     
     Original district summary:
+    
 ![image](https://user-images.githubusercontent.com/90977689/137188082-1d93e29a-be51-4045-aa05-4e844ecfc48e.png)
 
     New district summary with THS 9th grade scores removed:
+    
 ![image](https://user-images.githubusercontent.com/90977689/137188257-31847deb-c0a2-4dbb-869e-0a9067d74e5f.png)
 
 
@@ -69,7 +71,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
     
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  While the changes did not alter, THS's rank when based on percent overall passing, there are some changes in the ranking when sorting by other categories.  In rank by average math score, THS originally ranked #4 however with the new analysis THS falls to #6.  Another difference is that in the original analysis, THS's rank in percent passing reading was #1, however with the new analysis THS falls to #3
 
 - How does replacing the ninth-grade scores affect the following:
 
