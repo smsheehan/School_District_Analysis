@@ -14,10 +14,13 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 *How does replacing the ninth-grade scores affect the following:
 
-  **Math and reading scores by grade
-  **Scores by school spending
-  **Scores by school size
-  **Scores by school type
+   **Math and reading scores by grade
+  
+   **Scores by school spending
+  
+   **Scores by school size
+  
+   **Scores by school type
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
