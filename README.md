@@ -59,7 +59,15 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 
     
-- How is the school summary affected?
+- How is the school summary affected?  Original school summary sorted by percent overall passing:
+
+    ![image](https://user-images.githubusercontent.com/90977689/137196711-d3f6cc08-8ce5-487c-be59-740e1b91ec80.png)
+    
+    Updated school summary with THS 9th grade scores removed, again sorted by percent overall passing:
+    
+    ![image](https://user-images.githubusercontent.com/90977689/137197000-884e4264-b929-4ae9-bc03-56f616f5e198.png)
+
+    
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
