@@ -34,7 +34,15 @@ This was then followed by straightforward calculations to determine passing perc
 
 ![image](https://user-images.githubusercontent.com/90977689/137181700-73728219-9c60-49a0-8c88-b28a76426fef.png)
 
+I then had to individually insert the new percentages into the dataframe using loc.  It is super important to note that unlike the previous cases where I was using loc on columns, here I needed to use loc on the Index, which is a little different.  It actually turns out to be a little simpler.  I could use the format of selecting THS directly (rather than referencing both the dataframe and column), then indicating which column cell needed to be replaced and set it equal to the new values using the variable names created in the code discussed above).  
 
+![image](https://user-images.githubusercontent.com/90977689/137182511-253ebf63-3760-42db-bbe5-f7cffd9c30fb.png)
+
+This produced the following dataframe:
+
+![image](https://user-images.githubusercontent.com/90977689/137182737-21c99b6e-a313-40dd-9a93-e6f75e7ba396.png)
+
+The rest of the code for this challenge was straightforward adoption of code developed in the original module case study.
 
 
 
