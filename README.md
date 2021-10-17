@@ -75,21 +75,22 @@ Key questions and answers:
 
 - How does replacing the ninth-grade scores affect the following:
 
-   ** Math and reading scores by grade
+   ** Math and reading scores by grade:
+   
    Removal of the ninth-grade scores for THS does not affect any of the other shcools grades in any way.  It also does not affect the 10th, 11th, or 12th grade scores for THS.  However, removal of the THS 9th grade scores does affect the district 9th grade averages.  District 9th grade reading average goes from 82.51 to 82.43 and district 9th grade math average goes from 80.35 to 80.12.
   
-   ** Scores by school spending
+   ** Scores by school spending:  Unaffected
    original scores by school spending
    
    ![image](https://user-images.githubusercontent.com/90977689/137202317-22649a53-1c54-49b8-9ad4-4d9573090184.png)
    
-updated scores by school spending
+updated scores by school spending:  Unaffected
 
 ![image](https://user-images.githubusercontent.com/90977689/137202457-20410635-a2e0-4296-a2e8-fcf27fdcd47f.png)
 
 
   
-   ** Scores by school size
+   ** Scores by school size:  Unaffected
   
   original scores by school size:
   
@@ -107,12 +108,13 @@ original scores by school type
 ![image](https://user-images.githubusercontent.com/90977689/137201946-936ea081-23b8-4813-af92-d41a6e4e0129.png)
 
 updated scores by school type:
+
 ![image](https://user-images.githubusercontent.com/90977689/137202040-6d645e60-6d1f-49b5-8540-e3edf4a2c88a.png)
 
 
 ## Summary: 
 Four changes are worthy of note in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.  The impact of these changes on your interpretation of the data depends on how important one thinks the differences in tenths and hundredths of a percent are.  A statistical analysis would need to be done in order to avoid over interpretation of this data.  Such an analysis was not performed for this exercise.  While the summarized data all rounds out to be about equivalent, it is in the granular rankings analysis where the effects of the change can be seen.  In several of the categories, the data between schools is quite close and for ranking purposes it is not unreasonable to look to decimal level information to provide the differentiation.
-    1.  For school rank by average math score, THS originally ranked #4 however with the new analysis THS falls to #6.  The rank for THS by average reading score did not change.
-    2.  For school rank by percent passing reading, THS was #1, however, with the new analysis THS falls to #3.  The rank for THS by percent passing math did not change.
-    3.  For school rank by grade, obviously THS is not able to be ranked due to not having a score.  This would place them at the bottom of the ranking.  Prior to this change, THS 9th grade math ranked # 3 and THS 9th grade reading ranked #7.
-    4.  The fourth change is the obvious effect on THS's average scores.  The average reading score was 83.848930 (83.85 when rounded to 2 decimal places) in the original analysis and when the 9th grade scores were dropped, the average reading score changed to 83.896082 (83.90 rounded).  The average math score was 83.418349 (83.42 rounded) in the original analysis and when the 9th grade scores were dropped the math score changed to 83.350937 (83.35 rounded).	
+    1.)  For school rank by average math score, THS originally ranked #4 however with the new analysis THS falls to #6.  The rank for THS by average reading score did not change.
+    2.)  For school rank by percent passing reading, THS was #1, however, with the new analysis THS falls to #3.  The rank for THS by percent passing math did not change.
+    3.)  For school rank by grade, obviously THS is not able to be ranked due to not having a score.  This would place them at the bottom of the ranking.  Prior to this change, THS 9th grade math ranked # 3 and THS 9th grade reading ranked #7.
+    4.)  The fourth change is the obvious effect on THS's average scores.  The average reading score was 83.848930 (83.85 when rounded to 2 decimal places) in the original analysis and when the 9th grade scores were dropped, the average reading score changed to 83.896082 (83.90 rounded).  The average math score was 83.418349 (83.42 rounded) in the original analysis and when the 9th grade scores were dropped the math score changed to 83.350937 (83.35 rounded).	
