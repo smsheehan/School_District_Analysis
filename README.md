@@ -61,7 +61,7 @@ Key questions and answers:
 
 
     
-- How is the school summary affected?  Original school summary sorted by percent overall passing:
+- How is the school summary affected?  	Original school summary sorted by percent overall passing:
 
     ![image](https://user-images.githubusercontent.com/90977689/137196711-d3f6cc08-8ce5-487c-be59-740e1b91ec80.png)
     
@@ -114,5 +114,4 @@ Four changes are worthy of note in the updated school district analysis after re
     1.  For school rank by average math score, THS originally ranked #4 however with the new analysis THS falls to #6.  The rank for THS by average reading score did not change.
     2.  For school rank by percent passing reading, THS was #1, however, with the new analysis THS falls to #3.  The rank for THS by percent passing math did not change.
     3.  For school rank by grade, obviously THS is not able to be ranked due to not having a score.  This would place them at the bottom of the ranking.  Prior to this change, THS 9th grade math ranked # 3 and THS 9th grade reading ranked #7.
-
     4.  The fourth change is the obvious effect on THS's average scores.  The average reading score was 83.848930 in the original analysis and when the 9th grade scores were dropped, the average reading score changed to 83.896082.  The average math score was 83.418349 in the original analysis and when the 9th grade scores were dropped the math score changed to 83.350937	
