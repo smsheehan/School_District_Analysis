@@ -77,7 +77,7 @@ New district summary with THS 9th grade scores removed:
 
    ** Math and reading scores by grade:
    
-   Removal of the ninth-grade scores for THS does not affect any of the other shcools grades in any way.  It also does not affect the 10th, 11th, or 12th grade scores for THS.  However, removal of the THS 9th grade scores does affect the district 9th grade averages.  District 9th grade reading average goes from 82.51 to 82.43 and district 9th grade math average goes from 80.35 to 80.12.
+   Removal of the ninth-grade scores for THS does not affect any of the other schools grades in any way.  It also does not affect the 10th, 11th, or 12th grade scores for THS.  However, removal of the THS 9th grade scores does affect the district 9th grade averages.  District 9th grade reading average goes from 82.51 to 82.43 and district 9th grade math average goes from 80.35 to 80.12.
   
    ** Scores by school spending:  Unaffected
    
