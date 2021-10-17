@@ -55,7 +55,7 @@ Key questions and answers:
     
 ![image](https://user-images.githubusercontent.com/90977689/137188082-1d93e29a-be51-4045-aa05-4e844ecfc48e.png)
 
-    New district summary with THS 9th grade scores removed:
+New district summary with THS 9th grade scores removed:
     
 ![image](https://user-images.githubusercontent.com/90977689/137188257-31847deb-c0a2-4dbb-869e-0a9067d74e5f.png)
 
